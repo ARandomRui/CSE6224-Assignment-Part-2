@@ -6,7 +6,7 @@
 
 **\[Added]**
 
-* 5.4 Supporting information
+* 3.8.1 Validation
 
 **\[Changed / Updated]**
 
